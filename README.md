@@ -13,13 +13,13 @@ Install the package with either yarn or npm.
 With yarn:
 
 ```sh
-yarn add react-scrolltop
+yarn add @nzambello/react-scrolltop
 ```
 
 With npm:
 
 ```sh
-npm install --save react-scrolltop
+npm install --save @nzambello/react-scrolltop
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ npm install --save react-scrolltop
 ```js
 import React from 'react'
 import ReactDOM from 'react-dom'
-import ScrollTop from 'react-scrolltop'
+import ScrollTop from '@nzambello/react-scrolltop'
 
 const App = () => (
   ...
