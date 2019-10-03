@@ -1,8 +1,8 @@
 # react-scrolltop
 
 [![license](https://img.shields.io/github/license/nzambello/react-scrolltop.svg)](https://github.com/nzambello/react-scrolltop/blob/master/LICENSE)
-[![npm version](https://badge.fury.io/js/react-scrolltop.svg)](https://www.npmjs.com/package/react-scrolltop)
-[![npm](https://img.shields.io/npm/dt/react-scrolltop.svg)](https://www.npmjs.com/package/react-scrolltop)
+[![npm version](https://badge.fury.io/js/@nzambello/react-scrolltop.svg)](https://www.npmjs.com/package/@nzambello/react-scrolltop)
+[![npm](https://img.shields.io/npm/dt/@nzambello/react-scrolltop.svg)](https://www.npmjs.com/package/@nzambello/react-scrolltop)
 
 React component that adds a 'scroll to top' button fixed on the bottom of the page and shown if not scrolled up.
 
