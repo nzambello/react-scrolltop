@@ -1,6 +1,6 @@
 {
   "name": "@nzambello/react-scrolltop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React component that adds a 'scroll to top' button.",
   "main": "dist/react-scrolltop.js",
   "repository": "https://github.com/nzambello/react-scrolltop",
